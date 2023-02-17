@@ -11,13 +11,16 @@
 ***This is practice in GitHub by creating a sample repository. Completed in my Business Analytics and Information systems Professional Prep class.***
 ## How to Run Program
 
-`Hello_World/  
+```
+Hello_World/  
 └──
+
     │──  README.md 
     
     │──  pgmname1.R  
     
     │──  filename1.csv  
     
-    │──  examples.html`
+    │──  examples.html
+```
    
