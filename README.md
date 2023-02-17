@@ -3,7 +3,7 @@
 3. [Description](https://github.com/jacobphillips01/Hello-World/blob/main/README.md#project-title)
 4. [How to Run Program](https://github.com/jacobphillips01/Hello-World/blob/main/README.md#project-title)
 5. [Files Used](https://www.espn.com/nfl/story/_/id/35359479/2022-nfl-week-18-power-rankings-1-32-poll-season-review)
-6. Additional Documentation
+6. [Additional Documentation](https://www.espn.com/nfl/story/_/id/35359479/2022-nfl-week-18-power-rankings-1-32-poll-season-review)
 7. Versioning
 ## Project Title
 **Hello World Sample**
