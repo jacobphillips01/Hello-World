@@ -9,7 +9,7 @@
 **Hello World Sample**
 ## Description
 ***This is practice in GitHub by creating a sample repository. Completed in my Business Analytics and Information systems Professional Prep class.***
-<Hello_World/
+<sub</Hello_World/
 └── 
     │── README.md
     │── pgmname1.R
