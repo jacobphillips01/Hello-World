@@ -1,7 +1,7 @@
 ## Table of Contents 
 1. [Project Title](https://github.com/jacobphillips01/Hello-World/blob/main/README.md#project-title)
-3. [Description](
-4. How to Run Program
+3. [Description](https://github.com/jacobphillips01/Hello-World/blob/main/README.md#project-title)
+4. [How to Run Program](
 5. Files Used
 6. Additional Documentation
 7. Versioning
