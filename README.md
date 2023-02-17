@@ -1,10 +1,10 @@
 ## Table of Contents 
-1. Project Title 
-2. Description
-3. How to Run Program
-4. Files Used
-5. Additional Documentation
-6. Versioning
+1. [Project Title](
+3. Description
+4. How to Run Program
+5. Files Used
+6. Additional Documentation
+7. Versioning
 ## Project Title
 **Hello World Sample**
 ## Description
